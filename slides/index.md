@@ -1,10 +1,6 @@
 
 # Ciências da Computação
 
-From the terminal, pop in:
-
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+```
+guidohcosta.github.io/universitario-por-um-dia
+```
