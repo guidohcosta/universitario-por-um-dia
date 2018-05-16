@@ -1,6 +1,5 @@
 ##  Carreiras
 
-* Pesquisador
 * Administrador de Banco de Dados
 * Administrador de Sistemas
 * Analista de Sistemas
@@ -8,3 +7,4 @@
 * Desenvolvedor
 * Desenvolvedor Web
 * Gerente de TI
+* Pesquisador
